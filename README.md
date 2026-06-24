@@ -29,6 +29,40 @@ An AI-powered interview preparation platform that generates personalized intervi
 - OpenRouter API
 - PyPDF2
 - FPDF
+
+## 📸 Project Screenshots
+
+### 🏠 User Interface
+
+The main dashboard where users upload their resume and enter the target job description.
+
+![User Interface](screenshots/Ui%20page.png)
+
+---
+
+### 📋 Personalized Interview Questions
+
+AI-generated interview questions tailored according to the uploaded resume and target job role.
+
+![Interview Questions](screenshots/Interview%20Questions.png)
+
+---
+
+### 🎯 Mock Interview Mode
+
+Interactive interview mode where users answer questions and receive AI-powered evaluation.
+
+![Mock Interview](screenshots/mock%20interview.png)
+
+---
+
+### 📊 AI Feedback & Evaluation
+
+Detailed analysis of answers including score, strengths, weaknesses, areas of improvement, and suggested better responses.
+
+![Feedback](screenshots/Feedback.png)
+
+---
   ## Architecture
 
 PDF Resume
@@ -80,16 +114,4 @@ Deploy on https://streamlit.io/cloud?utm_source=chatgpt.com
 
 Vinayak Ojha
 
-## Screenshots
 
-### Personalized Question Generation
-
-![Questions](screenshots/questions.png)
-
-### Mock Interview Mode
-
-![Interview](screenshots/interview.png)
-
-### AI Evaluation
-
-![Feedback](screenshots/feedback.png)
