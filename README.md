@@ -53,3 +53,16 @@ streamlit run app.py
 ## Author
 
 Vinayak Ojha
+## Screenshots
+
+### Personalized Question Generation
+
+![Questions](screenshots/questions.png)
+
+### Mock Interview Mode
+
+![Interview](screenshots/interview.png)
+
+### AI Evaluation
+
+![Feedback](screenshots/feedback.png)
