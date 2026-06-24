@@ -75,9 +75,7 @@ pip install -r requirements.txt
 streamlit run app.py
 Deploy on https://streamlit.io/cloud?utm_source=chatgpt.com
 
-## Live Demo
 
-https://your-app-link.streamlit.app
 ## Author
 
 Vinayak Ojha
