@@ -29,6 +29,21 @@ An AI-powered interview preparation platform that generates personalized intervi
 - OpenRouter API
 - PyPDF2
 - FPDF
+  ## Architecture
+
+PDF Resume
+     ↓
+Text Extraction
+     ↓
+OpenRouter AI
+     ↓
+Question Generation
+     ↓
+Mock Interview
+     ↓
+Answer Evaluation
+     ↓
+Feedback Report
 
 ## Project Workflow
 
@@ -44,15 +59,29 @@ Answer Evaluation
 ↓
 Feedback Report
 
+## Future Enhancements
+
+- Voice-based interviews
+- Real-time speech analysis
+- Interview score dashboard
+- Multi-language support
+- ATS Resume Analysis integration
+- Interview history tracking
+
 ## Installation
 
 pip install -r requirements.txt
 
 streamlit run app.py
+Deploy on https://streamlit.io/cloud?utm_source=chatgpt.com
 
+## Live Demo
+
+https://your-app-link.streamlit.app
 ## Author
 
 Vinayak Ojha
+
 ## Screenshots
 
 ### Personalized Question Generation
